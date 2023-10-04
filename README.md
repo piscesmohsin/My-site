@@ -1,2 +1,2 @@
 # My-site
-This is the website i created by using only HTML and CSS only. 
+This is a personal portfolio,I created using only HTML and CSS only. 
